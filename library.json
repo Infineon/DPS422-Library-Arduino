@@ -1,0 +1,13 @@
+{
+  "name": "DPS422",
+  "keywords": "barometric, pressure, temperature, sensor, shield2go",
+  "description": "Library of Infineon's highly sensitive DPS422 pressure and temperature sensor for Arduino.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Infineon/DPS422-Library-Arduino.git"
+  },
+  "version": "1.0.6",
+  "frameworks": "arduino",
+  "platforms": "infineonxmc"
+}
