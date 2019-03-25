@@ -91,4 +91,4 @@ Please be aware that the DPS422 is sensitive to light and should be shielded, e.
 In case you need additional help, please do not hesitate to open an issue in this repository.
 
 ### Additional Information
-Please find the datasheet of the DPS422 [here]((https://www.infineon.com/dgdl/Infineon-DPS422-DS-v01_03-EN.pdf?fileId=5546d46264fee02f01650249502c1ddf). It depends on the evaluation board which you are using or the respective configuration of the sensor on your PCB which communication protocol as well as addresses you need to use for communicating with the sensor.
+Please find the datasheet of the DPS422 [here](https://www.infineon.com/dgdl/Infineon-DPS422-DS-v01_03-EN.pdf?fileId=5546d46264fee02f01650249502c1ddf). It depends on the evaluation board which you are using or the respective configuration of the sensor on your PCB which communication protocol as well as addresses you need to use for communicating with the sensor.
