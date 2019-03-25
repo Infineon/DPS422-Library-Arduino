@@ -58,7 +58,7 @@ The master branch is always release ready; therefore, you can just download this
 
 Please download this repository from GitHub by clicking on the above button `Clone or download` of this repository:
 
-![Download Library](https://raw.githubusercontent.com/infineon/assets/master/Download_Repo.png)
+![Download Library](https://github.com/Infineon/Assets/blob/master/Pictures/Download_Repo.png)
 
 To install the DPS422 pressure sensor library in the Arduino IDE, please go now to **Sketch** > **Include Library** > **Add .ZIP Library...** in the Arduino IDE and navigate to the downloaded .ZIP file of this repository. The library will be installed in your Arduino sketch folder in libraries and you can select as well as include this one to your project under **Sketch** > **Include Library** > **DPS422 Barometric Pressure Sensor**.
 
