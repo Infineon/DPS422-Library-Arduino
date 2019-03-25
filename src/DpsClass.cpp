@@ -534,8 +534,9 @@ int16_t DpsClass::disableFIFO()
 
 uint16_t DpsClass::calcBusyTime(uint16_t mr, uint16_t osr)
 {
-	//formula from datasheet (optimized)
-	return ((uint32_t)20U << mr) + ((uint32_t)16U << (osr + mr));
+	// TODO: properly separate temperature and pressure measurements
+	// There is different timing dependent on the respective measurements
+	return ((uint32_t)20U << mr) + ((uint32_t)32U << (osr + mr));
 }
 
 int16_t DpsClass::getFIFOvalue(int32_t *value)
