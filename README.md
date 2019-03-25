@@ -82,7 +82,7 @@ Each sensor can only work either SPI or I2C. To convert from SPI to I2C, for exa
 
 However, every Shield2Go is directly compatible with Infineon's XMC2Go and the recommended quick start is to use an XMC2Go for evaluation. Therefore, please install (if not already done) also the [XMC-for-Arduino](https://github.com/Infineon/XMC-for-Arduino) implementation and choose afterwards **XMC1100 XMC2Go** from the **Tools**>**Board** menu in the Arduino IDE if working with this evaluation board. To use it, please plug the DPS422 Pressure Shield2Go onto the XMC2Go as shown below.
 
-<img src="https://github.com/Infineon/Assets/blob/master/Pictures/DPS310_S2Go_w_XMC2Go.png" width=250>
+<img src="https://github.com/Infineon/Assets/blob/master/Pictures/DPS422_S2Go_w_XMC2Go.png" width=250>
 
 Please be aware that the DPS422 is sensitive to light and should be shielded, e.g. by the XMC 2Go as shown above, against direct light exposure.
 
