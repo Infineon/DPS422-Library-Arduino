@@ -18,9 +18,7 @@ env:
         - PLATFORMIO_CI_SRC=examples/i2c_background
         - PLATFORMIO_CI_SRC=examples/i2c_command
         - PLATFORMIO_CI_SRC=examples/i2c_interrupt
-        - PLATFORMIO_CI_SRC=examples/spi_background
-        - PLATFORMIO_CI_SRC=examples/spi_command
-        - PLATFORMIO_CI_SRC=examples/spi_interrupt
+
 
 install:
     # build with stable core
