@@ -1,5 +1,7 @@
 # DPS422 Barometric Pressure Sensor
 
+[![Build Status](https://travis-ci.org/Infineon/DPS422-Library-Arduino.svg?branch=master)](https://travis-ci.org/Infineon/DPS422-Library-Arduino)
+
 <img src="https://www.infineon.com/export/sites/default/media/products/Small_Signal_Discretes/WLGA-8-1.png_1924866192.png" width=150><img src="https://github.com/Infineon/Assets/blob/master/Pictures/DPS422-Pressure-Shield2Go_Top.png" width=300>
 
 Library of Infineon's highly sensitive [DPS422 sensor](https://www.infineon.com/cms/en/product/sensor/barometric-pressure-sensor-for-consumer-applications/dps422/) for Arduino.
