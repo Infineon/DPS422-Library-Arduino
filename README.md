@@ -1,4 +1,9 @@
-# DPS422 Barometric Pressure Sensor
+#ATTENTION:
+
+This library is deprecated and will not be maintained any longer. Also the DPS422 Barometric Pressure Sensor is discontinued by Infineon.
+You can still use this library if you have a sample of this particular sensor, otherwise please refer to the [XENSIV™ Digital Pressure Sensor Arduino Library](https://github.com/Infineon/arduino-xensiv-dps3xx) repository for the DPS310 and DPS368 sensors.
+
+# DPS422 Barometric Pressure Sensor 
 
 [![Build Status](https://travis-ci.org/Infineon/DPS422-Library-Arduino.svg?branch=master)](https://travis-ci.org/Infineon/DPS422-Library-Arduino)
 
